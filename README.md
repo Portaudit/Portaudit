@@ -3,6 +3,6 @@
 ### Welcome to Portaudit
 I am an independent Smart Contract Security Researcher specializing in Rust and Anchor. 
 
-Currently building **AuditAgent**, a trustless settlement and deterministic validation layer for autonomous AI agents on Solana. 
+Currently building TrustRail: deterministic settlement rails for AI-agent commerce on Solana — escrow releases or refunds from on-chain facts, no arbiter, no judge model. Lineage: AuditAgent (devnet-live; Colosseum Eternal: submitted, not selected).
 
-🔗 **[View my active work: AuditAgent](https://github.com/Portaudit/audit-agent-solana)**
+🔗 **[View my active work: AuditAgent](https://trustrail.live)**
