@@ -5,4 +5,4 @@ I am an independent Smart Contract Security Researcher specializing in Rust and 
 
 Currently building TrustRail: deterministic settlement rails for AI-agent commerce on Solana — escrow releases or refunds from on-chain facts, no arbiter, no judge model. Lineage: AuditAgent (devnet-live; Colosseum Eternal: submitted, not selected).
 
-🔗 **[View my active work: AuditAgent](https://trustrail.live)**
+🔗 **[View my active work: TrustRail](https://trustrail.live)**
