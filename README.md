@@ -1,8 +1,13 @@
 ![Portaudit Banner](https://raw.githubusercontent.com/Portaudit/audit-agent-solana/main/banner.jpg)
 
 ### Welcome to Portaudit
-I am an independent Smart Contract Security Researcher specializing in Rust and Anchor. 
 
-Currently building TrustRail: deterministic settlement rails for AI-agent commerce on Solana — escrow releases or refunds from on-chain facts, no arbiter, no judge model. Lineage: AuditAgent (devnet-live; Colosseum Eternal: submitted, not selected).
+I'm Ishvir Jackpersad. I build settlement infrastructure on Solana in Rust and Anchor. Everything below is devnet and unaudited, and each claim can be checked on chain.
 
-🔗 **[View my active work: TrustRail](https://trustrail.live)**
+- **[Referee](https://thereferee.xyz)**: an independent settlement authority for the Solana Foundation's DvP program. A program-derived address acts as the trade's settlement authority, so settlement is gated by on-chain rules instead of a trusted key.
+- **[Verifex](https://verifex.live)**: issues the credentials Referee checks before a DvP trade settles.
+- **[TrustRail](https://trustrail.live)**: outcome verification and settlement for AI agent-to-agent commerce.
+
+Everything is linked from [ishvir.xyz](https://ishvir.xyz). Earlier work: AuditAgent, now frozen.
+
+Independent project, not affiliated with or endorsed by the Solana Foundation or J.P. Morgan.
